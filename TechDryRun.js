@@ -1,8 +1,6 @@
 //Tech Dry Run
 
-var hrr18 = {
-  name: 'Keeley Nakamoto'
-}
-
-
-
+var hrr33 = {
+  name: 'Anna Miura'
+};
+console.log('hi');
